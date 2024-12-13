@@ -1,4 +1,4 @@
-package de.johannes.curses;
+package de.johannes.nf;
 
 public class NerdFontIcons {
 
