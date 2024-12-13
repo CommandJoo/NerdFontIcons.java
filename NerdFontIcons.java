@@ -1,4 +1,4 @@
-package de.johannes.nf;
+package de.johannes.nerdfont;
 
 public class NerdFontIcons {
 
