@@ -1,7 +1,7 @@
 Adds a Java Constant for all the Icons provided by NerdFont
 
 ```java
-package de.johannes.curses;
+package de.johannes.nerdfont;
 
 public class NerdFontIcons {
 
